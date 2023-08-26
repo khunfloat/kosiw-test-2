@@ -1,3 +1,4 @@
 init project (float)
 add featureA (tee)
 fix some bugs (float) / while dad add featureA
+fix bug typo (float)
